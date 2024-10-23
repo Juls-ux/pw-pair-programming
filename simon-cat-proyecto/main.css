@@ -1,0 +1,35 @@
+.cabecera {
+    background-color: turquoise;
+    margin: 0;
+    position: static;
+    top: 0px;
+    padding: 5px;
+}
+.titulo {
+    color: white;
+}
+
+.picture-1 {
+    border: solid 2px black;
+    width: 100%;
+    display: flex;
+    max-width: 100%;
+    margin-right:50px;
+
+}
+
+.recuadro-simon {
+    position: absolute;
+    bottom: 400px;
+    right: 0px;
+    z-index: 1;
+    padding: 3px;
+    border: solid 3px teal;
+    background-color: rgb(187, 245, 245);
+
+}
+
+.text-1 {
+    color: rgb(8, 161, 175);
+
+}
