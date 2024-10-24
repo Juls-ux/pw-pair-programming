@@ -10,7 +10,23 @@
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-between;
+    position: sticky;
+    padding: 15px;
 }
+.menu {
+    display: flex;
+    list-style: none;
+}
+.menu-list {
+    color: white;
+    margin-left: 20px;
+}
+  
+     
+.container-1 {
+    background-image: url("https://images.pexels.com/photos/13921026/pexels-photo-13921026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+
 
 /*.navigator {
     margin-left: 50px;
