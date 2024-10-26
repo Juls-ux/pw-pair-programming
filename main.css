@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .logo {
     width: 100px;
 }
@@ -24,10 +30,36 @@
   
      
 .container-1 {
-    background-image: url("https://images.pexels.com/photos/13921026/pexels-photo-13921026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-image: url("https://images5.alphacoders.com/109/1093982.jpg");
+    height: 100vh;
+    
 }
 
+.encabezado-1 {
+    
+    font-weight:900;
+    font-size: 4rem;
+    padding: 80px 20px 20px 20px;
+}
 
+.encabezado-2 {
+    padding: 0 20px;
+}
+
+.boton-planes {
+    color-scheme: ;
+    width: 150px;
+    height: 40px;
+    background-color: rgb(30, 215, 96);
+    border-radius: 25px;
+    border: solid 1px rgb(30, 215, 96);
+    color: white;
+    font-weight: bold;
+}
+
+.texto-1 {
+
+}
 /*.navigator {
     margin-left: 50px;
 }/*
